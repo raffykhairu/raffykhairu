@@ -1,4 +1,4 @@
-<!-- ![raffy-khairu](img/github-header-banner%20(1).png)
+![raffy-khairu](img/github-header-banner%20(1).png)
 
 <h1 align="left">Skills</h1>
 
@@ -44,9 +44,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raffykhairu/raffykhairu/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-### -->
+###
 
-```bash
+<!-- ```bash
 ┌──(raffy㉿github)-[~/profile]
 └─$ whoami
 
@@ -129,4 +129,4 @@ apache
 ```bash
 ┌──(raffy㉿github)-[~]
 └─$ _
-```
+``` -->
