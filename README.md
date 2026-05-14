@@ -47,8 +47,6 @@ Here are some ideas to get you started:
 
 ###
 
-###
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/raffykhairu/raffykhairu/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=raffykhairu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
