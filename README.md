@@ -1,19 +1,4 @@
-![raffy-khairu](img/github-header-banner%20(1).png)
-
-<!--
-**raffykhairu/raffykhairu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ![raffy-khairu](img/github-header-banner%20(1).png)
 
 <h1 align="left">Skills</h1>
 
@@ -59,4 +44,89 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raffykhairu/raffykhairu/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-###
+### -->
+
+```bash
+┌──(raffy㉿github)-[~/profile]
+└─$ whoami
+
+student
+cybersecurity enthusiast
+linux user
+```
+
+---
+
+```bash
+┌──(raffy㉿github)-[~/about]
+└─$ cat info.txt
+```
+
+```txt
+Name    : Raffy
+Focus   : Web Security
+OS      : Linux
+Learning: Networking & Cryptography
+```
+
+---
+
+```bash
+┌──(raffy㉿github)-[~/skills]
+└─$ ls
+```
+
+```txt
+html
+css
+javascript
+php
+linux
+git
+nginx
+apache
+```
+
+---
+
+```bash
+┌──(raffy㉿github)-[~/projects]
+└─$ tree
+```
+
+```txt
+.
+├── personal-web-server
+├── cryptography-practice
+├── web-design-project
+└── linux-lab
+```
+
+---
+
+```bash
+┌──(raffy㉿github)-[~/stats]
+└─$ fetch-github-stats
+```
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/raffykhairu/raffykhairu/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=raffykhairu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/raffykhairu/raffykhairu/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+---
+
+```bash
+┌──(raffy㉿github)-[~/quote]
+└─$ echo
+```
+
+```txt
+"Security is a process, not a product."
+```
+
+```bash
+┌──(raffy㉿github)-[~]
+└─$ _
+```
