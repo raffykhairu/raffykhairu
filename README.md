@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <h1 align="left">Skills</h1>
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="12" />
@@ -33,11 +31,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
 </div>
 
-###
+---
 
 <h1 align="left">Social</h1>
-
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="55" alt="discord logo"  />
@@ -45,7 +41,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="55" alt="linkedin logo"  />
 </div>
 
-###
+---
 
 <h1 align="left">Github Stats</h1>
 
@@ -55,7 +51,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/raffykhairu/raffykhairu/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raffykhairu/raffykhairu/pacman-output/pacman-contribution-graph-dark.svg">
